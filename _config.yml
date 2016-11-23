@@ -5,13 +5,13 @@ baseurl: "/lixyon37927.github.io" # for test: remove string '/lixyon37927.github
 url: "http://lixyon37927.github.io" # for test: remove string 'http://lixyon37927.github.io' to '' but in production: 'https:lixyon37927.github.io'
 
 # User settings
-username: lee
-user_title: 流萤
+username: 流萤飘枫
+user_title: lee
 email: lixyon@aliyun.com
-twitter_username: loremipsum
+twitter_username: lee
 github_username:  lixyon@aliyun.com
-gplus_username:  loremipsum
-disqus_username: loremipsum
+gplus_username:  lee
+disqus_username: lee
 
 # Build settings
 markdown: kramdown
