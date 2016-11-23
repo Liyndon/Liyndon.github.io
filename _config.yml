@@ -1,7 +1,7 @@
 # Site settings
 title: Lorem Ipsum - Web Developer
 description: "A blog about lorem ipsum ..."
-baseurl: "/" # for test: remove string '/' to ''
+baseurl: "" # for test: remove string '' to ''
 url: "http://lixyon37927.github.io" # for test: remove string 'http://lixyon37927.github.io' to '' but in production: 'https:lixyon37927.github.io'
 
 # User settings
